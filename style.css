@@ -384,7 +384,7 @@ left: -33px;
 top: 19px;
 height: 98%;
 width: 98%;
-border: 7px solid crimson;
+border: 7px solid rgb(255, 255, 255);
 z-index: -1;
 }
 /* End About Section */
